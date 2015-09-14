@@ -1,4 +1,4 @@
-NotesApp
+## NotesApp
 
 This application is based on the note-wrangler application created by [Code School](https://www.codeschool.com/). Adding new implementations and custom sections.
 
